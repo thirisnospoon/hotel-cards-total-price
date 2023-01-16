@@ -1,0 +1,16 @@
+.villas_block {
+
+}
+
+.villa-avatar {
+    flex: 1 0 35% !important;
+}
+
+.villa-body {
+    flex: 1 0 40% !important;
+}
+
+.villa-price {
+    background-color: aquamarine;
+    flex: 1 0 25%;
+}
